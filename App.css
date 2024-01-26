@@ -1,0 +1,21 @@
+#header{
+  display: flex;
+  width: 100%;
+  height: 50px;
+  background-color: grey;
+  align-items: center;
+  justify-content: space-around;
+}
+.link{
+  text-decoration: none;
+  color:blue
+}
+#login-btn{
+  padding: 10px;
+  border-style: none;
+  width: 80px;
+  color: white;
+  background-color: brown;
+  border-radius: 10px;
+  font-size: 20px;
+}
